@@ -20,11 +20,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>image.png</name>
-			<type>1</type>
-			<location>C:/Users/Yung/Desktop/work/2022-2023 S/COMP3111/lab/image.png</location>
-		</link>
-	</linkedResources>
 </projectDescription>
